@@ -1,0 +1,1 @@
+This repository contains the notes and small projects to learn and practice Regular Expressions.
